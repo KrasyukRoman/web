@@ -1,0 +1,12 @@
+header{
+	height: 250px;
+	background-color: lightblue;
+}
+nav{
+	width: 20%;
+	background-color: lightgoldenrodyellow;
+	float: left;
+}
+h2{
+	text-align: center;
+}

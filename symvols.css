@@ -1,0 +1,20 @@
+body{
+	background-color: lightsteelblue;
+}
+p{
+	font-size: 32px;
+}
+.p1{
+	color: fuchsia;
+	background-color: purple;
+}
+.p2{
+	font-family: sans-serif;
+}
+.p3{
+    font-family: Times, "Times New Roman", Georgia, serif;
+}
+.p4{
+    font-family: "Lucida Console", Courier, monospace;
+}
+.p5

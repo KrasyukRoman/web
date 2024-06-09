@@ -1,0 +1,51 @@
+body{
+	background-color: skyblue;
+}
+p{
+	font-size:  0.9in;
+	color: yellow;
+	background-image: url(https://www.nastol.com.ua/pic/202104/1920x1080/nastol.com.ua-456766.jpg);
+background-size: cover;
+text-align: center;}
+	body{
+
+	background-color: lightblue;
+
+	background-image: url(https://cdn.pixabay.com/animation/2022/08/17/03/45/03-45-12-425_512.gif);
+
+	background-size: 200px;
+
+	background-repeat: no-repeat;
+
+	background-position: 90% 90%;
+
+	background-attachment: fixed;
+}
+#d1{
+	width: 500px;
+	height: 500px;
+	background-image: url(https://kartinki.pics/uploads/posts/2022-02/1645826034_1-kartinkin-net-p-kartinki-pro-leto-krasivie-1.jpg);
+background-size: cover;
+border: 30px groove orange;
+}
+#d2{
+	width: 400px;
+	height: 400px;
+	border: 30px solid;
+	margin: 50px;
+	border-image:linear-gradient ;
+
+
+
+}
+
+
+
+
+
+	
+
+
+
+
+
